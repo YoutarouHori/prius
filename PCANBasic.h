@@ -1,21 +1,4 @@
 //  PCANBasic.h
-//
-//  ~~~~~~~~~~~~
-//
-//  PCAN-Basic API
-//
-//  ~~~~~~~~~~~~
-//
-//  ------------------------------------------------------------------
-//  Author : Keneth Wagner
-//	Last change: 17.08.2012 Wagner
-//
-//  Language: ANSI-C
-//  ------------------------------------------------------------------
-//
-//  Copyright (C) 1999-2012  PEAK-System Technik GmbH, Darmstadt
-//  more Info at http://www.peak-system.com 
-//
 //#ifndef __PCANBASICH__
 //#define __PCANBASICH__
 #pragma once
